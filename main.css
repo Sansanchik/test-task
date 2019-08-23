@@ -1,0 +1,55 @@
+body {
+font-family: 'Open Sans', sans-serif;	
+min-width: 320px;
+}
+
+header, footer {
+	background-color: #0070af;
+	color: #fff;
+}
+.nav {
+	margin-top: 1rem;
+}
+.nav-link {
+	color: #fff;
+	font-size: 1.2rem;
+	margin-bottom: 10px;
+	line-height: 1.3rem;
+	border-bottom: 2px solid transparent;
+}
+.nav-link:hover, .nav-link:visited {
+	border-bottom: 2px solid #fff;
+	color: inherit;
+}
+.card {
+	border: none;
+}
+.card-title {
+	font-size: 1.2rem;
+	font-weight: bold;
+}
+.biografie {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.slider {
+	margin: auto;
+}
+.card-img {
+ width: auto; 
+}
+
+.preise {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+footer a, footer a:hover, footer a:visited {
+	color: #fff;
+	text-decoration: none;
+}
+.fa {
+	font-family: "FontAwesome" !important;
+	color: #fff;
+	font-size: 1rem;
+	margin-right: 10px;
+}
