@@ -24,11 +24,11 @@ header, footer {
 .card {
 	border: none;
 }
-.card-img {
+/*.card-img {
  width: auto; 
  vertical-align: middle;
 /* align-content: center;*/
-}
+}*/
 .card-title {
 	font-size: 1.2rem;
 	font-weight: bold;
