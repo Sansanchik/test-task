@@ -27,7 +27,7 @@ header, footer {
 .card-img {
  width: auto; 
  vertical-align: middle;
- align-content: center;
+/* align-content: center;*/
 }
 .card-title {
 	font-size: 1.2rem;
@@ -39,6 +39,9 @@ header, footer {
 }
 .slider {
 	margin: auto;
+}
+#carouselExampleControls {
+	width: 100%;
 }
 
 
