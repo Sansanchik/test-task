@@ -8,7 +8,7 @@ header, footer {
 	color: #fff;
 }
 .nav {
-	margin-top: 2rem;
+	margin-top: 2.4rem;
 }
 .nav-link {
 	color: #fff;
@@ -49,6 +49,7 @@ header, footer {
 }
 footer a, footer a:hover, footer a:visited {
 	color: #fff;
+	line-height: 1.8rem;
 	text-decoration: none;
 }
 .fa {
