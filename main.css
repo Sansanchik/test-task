@@ -24,6 +24,11 @@ header, footer {
 .card {
 	border: none;
 }
+.card-img {
+ width: auto; 
+ vertical-align: middle;
+ align-content: center;
+}
 .card-title {
 	font-size: 1.2rem;
 	font-weight: bold;
@@ -35,9 +40,7 @@ header, footer {
 .slider {
 	margin: auto;
 }
-.card-img {
- width: auto; 
-}
+
 
 .preise {
 	padding-top: 20px;
